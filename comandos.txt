@@ -1,3 +1,5 @@
 6.  mkdir catarroja alfafar paiporta massanassa
 7.  cd catarroja
     touch enero febrero marzo
+8.  cd ..
+    cd alfafar
