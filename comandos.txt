@@ -4,4 +4,5 @@
 8.  cd ../alfafar
 9.  cp ../catarroja/enero ./
 10. cd ..
-11. cp catarroja/enero catarroja/febrero catarroja/marzo paiporta/
+11. cp catarroja/enero catarroja/febrero catarroja/marzo paiporta/          (barra al final para señalar carpetas)
+12. rm paiporta/*ro                                                         (borra todo lo que acabe en -ro)
