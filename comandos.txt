@@ -3,3 +3,4 @@
     touch enero febrero marzo
 8.  cd ../alfafar
 9.  cp ../catarroja/enero ./
+10. cd ..
