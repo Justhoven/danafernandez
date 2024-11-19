@@ -12,3 +12,4 @@
 16. mv massanassa/enero massanassa/abril
 17. cp massanassa/abril ./hola
 18. cd paiporta
+19. rm -r ../massanassa/
