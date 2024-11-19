@@ -4,6 +4,8 @@
 8.  cd ../alfafar
 9.  cp ../catarroja/enero ./
 10. cd ..
-11. cp catarroja/enero catarroja/febrero catarroja/marzo paiporta/          (barra al final para señalar carpetas)
+11. cp catarroja/enero catarroja/febrero catarroja/marzo paiporta/  --> (!) (barra al final para señalar carpetas) (se puede poner cp catarroja/* y copia TODO su contenido)
 12. rm paiporta/*ro                                                         (borra todo lo que acabe en -ro)
 13. mv catarroja/enero massanassa/
+15. git fetch
+    git merge origin/master
